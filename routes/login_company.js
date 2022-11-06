@@ -113,7 +113,7 @@ router.post('/',async(req,res)=>{
            data: {
             "senderProfileId": 60857,
             "receiverEmailAddress": `${email}`,
-            "subject": "Wellcome - Pitgrowth",
+            "subject": "Welcome - Pitgrowth",
             "content": `<span
             style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">deneme</span>
         <!--[if IE]><div class="ie-container"><![endif]-->
